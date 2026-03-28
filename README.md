@@ -1,7 +1,7 @@
 # 🍽️ VIT Bhopal Smart Mess Intelligence System
 
 > **AI-Powered Mess Management System** — CSA2001: Fundamentals in AI & ML  
-> VIT Bhopal University | Academic Year 2024–25
+> VIT Bhopal University | Academic Year 2025–26
 
 ---
 
